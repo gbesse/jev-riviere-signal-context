@@ -1,6 +1,6 @@
 {
   "name": "@gbesse/jev-riviere-signal-context",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Replace un groupe de mesures de cours d’eau dans un contexte persistant, ponctuel ou insuffisamment documenté.",
   "type": "module",
   "license": "MIT",
